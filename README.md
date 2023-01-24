@@ -186,5 +186,7 @@ map.html :
 ![output](./map%20cse.png)
 ![output](./map%20boys%20hostel.png)
 ![output](./map%20admin.png)
-
+HTML CHECKER
+![OUTPUT](./html%20checker.png)
 ## Result:
+Thus The Web Is Developed To Show The Details Of SEC
